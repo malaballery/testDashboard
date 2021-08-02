@@ -1,5 +1,19 @@
 body {
     background-color: #f8f9fa !important;
+    color:rgba(28, 26, 44) !important;
+}
+
+a {
+    color : rgba(28, 26, 44) !important;
+}
+
+.calendrier {
+    background-color: #287265;
+    color: #fed358;
+}
+
+.p-text-success {
+    color:#287265 !important;
 }
 
 .p-text-graph {
