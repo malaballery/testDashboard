@@ -2,6 +2,21 @@ body {
     background-color: #f8f9fa !important;
 }
 
+.p-text-graph {
+    top: -155px;
+    font-size: 70px;
+}
+.p-rounded-20 {
+    border-radius: 20px;
+}
 .p-rounded-30 {
     border-radius: 30px;
+}
+
+.p-mt-70 {
+    margin-top: -70px;
+}
+
+.p-fw-600 {
+    font-weight: 600 !important;
 }
