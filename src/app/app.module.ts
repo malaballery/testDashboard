@@ -15,6 +15,7 @@ import { NombreNouveauxClientsComponent } from './nombre-nouveaux-clients/nombre
 import { TauxConversionComponent } from './taux-conversion/taux-conversion.component';
 import { NombrePaniersComponent } from './nombre-paniers/nombre-paniers.component';
 import { TotalVenteParProduitComponent } from './total-vente-par-produit/total-vente-par-produit.component';
+import { CommandesComponent } from './commandes/commandes.component';
 
 @NgModule({
   declarations: [
@@ -30,7 +31,8 @@ import { TotalVenteParProduitComponent } from './total-vente-par-produit/total-v
     NombreNouveauxClientsComponent,
     TauxConversionComponent,
     NombrePaniersComponent,
-    TotalVenteParProduitComponent
+    TotalVenteParProduitComponent,
+    CommandesComponent
   ],
   imports: [
     BrowserModule,
